@@ -2,9 +2,9 @@
     <!-- Logo -->
     <a href="<?php echo base_url('admin/dashboard') ?>" class="logo">
         <!-- mini logo for sidebar mini 50x50 pixels -->
-        <span class="logo-mini"><b>S</b>21</span>
+        <span class="logo-mini"><b>SMK</b>1</span>
         <!-- logo for regular state and mobile devices -->
-        <span class="logo-lg"><b>System</b>21</span>
+        <span class="logo-lg"><b>SMKN</b>1gorontalo</span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">
@@ -36,7 +36,7 @@
                                 <a href="<?php echo base_url('admin/auth/change_password') ?>" class="btn btn-default btn-flat">Change Password</a>
                             </div>
                             <div class="pull-right">
-                                <a href="<?php echo base_url('admin/auth/logout') ?>" class="btn btn-default btn-flat">Sign out</a>
+                                <a href="<?php echo base_url('admin/auth/logout') ?>" class="btn btn-default btn-flat">Logout</a>
                             </div>
                         </li>
                     </ul>
